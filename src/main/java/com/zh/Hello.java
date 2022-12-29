@@ -6,5 +6,9 @@ public class Hello {
         System.out.println("second");
         System.out.println("我修改了master分支");
         System.out.println("我创建了dev分支");
+        System.out.println("哈哈哈哈");
+        System.out.println("哈哈哈哈");
+        System.out.println("哈哈哈哈");
+        System.out.println("哈哈哈哈");
     }
 }
