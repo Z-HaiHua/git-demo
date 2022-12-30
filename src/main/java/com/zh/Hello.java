@@ -6,5 +6,8 @@ public class Hello {
         System.out.println("push test");
         System.out.println("push test");
         System.out.println("push test");
+        System.out.println("push test");
+        System.out.println("push test");
+        System.out.println("push test");
     }
 }
