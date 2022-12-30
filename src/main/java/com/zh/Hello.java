@@ -14,5 +14,6 @@ public class Hello {
         System.out.println("dev");
         System.out.println("我更新了代码");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
