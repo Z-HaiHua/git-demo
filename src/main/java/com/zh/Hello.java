@@ -12,5 +12,7 @@ public class Hello {
         System.out.println("哈哈哈哈");
         System.out.println("master");
         System.out.println("dev");
+        System.out.println("我更新了代码");
+        System.out.println("push test");
     }
 }
